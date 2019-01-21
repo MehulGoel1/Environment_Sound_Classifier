@@ -1,5 +1,7 @@
 # Environment_Sound_Classifier
 
+The project is built to classify environment sounds in real-time, by taking intermittent audio input of 5 second samples and processing them in mutliple threads.
+
 Dataset used for this project was ESC-10.
 
 ESC-10 is a part of ESC dataset (Environmental Sound Classification).
