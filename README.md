@@ -15,8 +15,8 @@ ESC-US: an unlabeled dataset of 250 000 environmental recordings (5-second-long 
 
 Snapshots of Results:
 
-https://user-images.githubusercontent.com/35894429/51501548-5532d380-1df8-11e9-93fa-be5d8ed63baa.png
+![](https://user-images.githubusercontent.com/35894429/51501548-5532d380-1df8-11e9-93fa-be5d8ed63baa.png)
 
-https://user-images.githubusercontent.com/35894429/51501588-86130880-1df8-11e9-8d33-9e7653229426.png
+![](https://user-images.githubusercontent.com/35894429/51501588-86130880-1df8-11e9-8d33-9e7653229426.png)
 
-https://user-images.githubusercontent.com/35894429/51501602-9d51f600-1df8-11e9-8212-57fa5a92c232.png
+![](https://user-images.githubusercontent.com/35894429/51501602-9d51f600-1df8-11e9-8212-57fa5a92c232.png)
