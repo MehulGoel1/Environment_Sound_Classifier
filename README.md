@@ -1,6 +1,6 @@
 # Environment_Sound_Classifier
 
-The project is built to classify environment sounds in real-time, by taking intermittent audio input of 5 second samples and processing them in mutliple threads.
+The project is built to classify environment sounds in real-time, by taking intermittent audio input of 5 second samples and processing them in mutliple threads. The classification is done using SVM classififer with "rbf" kernel, which was trained on Acoustic and Spectrogram Image features.
 
 Dataset used for this project was ESC-10.
 
