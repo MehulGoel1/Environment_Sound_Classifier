@@ -1,13 +1,12 @@
 # Environment_Sound_Classifier
 
-The project is built to classify environment sounds in real-time, by taking intermittent audio input of 5 second samples and processing them in multiple threads. The classification is done using a Support vector machine (SVM) classifier with "rbf" kernel, which was trained on Acoustic and Spectrogram Image features.
+The project aims to classify environment sounds in real-time, by taking audio input in samples of 5 seconds (i.e. as gap-less as possible) and processing them in parallel. The classification has been done using a support vector machine with "rbf" kernel, trained on acoustic and spectrogram features of many versions of 10 kinds of sounds.
 
 Dataset used for this project was ESC-10.
 
 ESC-10 is a part of the ESC dataset (Environmental Sound Classification).
 
-
-The ESC dataset is a collection of short environmental recordings available in a unified format (5-second-long clips, 44.1 kHz, single channel, Ogg Vorbis compressed @ 192 kbit/s). All clips have been extracted from public field recordings available through the Freesound.org project. Please see the README files for a detailed attribution list. The dataset is available under the terms of the Creative Commons license - Attribution-NonCommercial.
+The ESC dataset is a collection of short environmental recordings available in a unified format (5-second-long clips, 44.1 kHz, single channel, Ogg Vorbis compressed @ 192 kbit/s). All clips have been extracted from public field recordings available through the Freesound.org project. Please see the README files for more details. The dataset is available under the terms of the Creative Commons license - Attribution-NonCommercial.
 
 The dataset has three parts:
 
